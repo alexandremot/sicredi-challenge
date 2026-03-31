@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sicredi.challenge.tests.GetProductByIdTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.111 s -- in org.sicredi.challenge.tests.GetProductByIdTest

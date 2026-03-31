@@ -1,0 +1,14 @@
+
+services:
+  sicredi-tests:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sicredi-challenge:latest
+    container_name: sicredi-challenge-app
+    volumes:
+      - ./target/allure-results:/app/target/allure-results
+      - ./target/site:/app/target/site
+    environment:
+      JAVA_OPTS: "-Xmx512m"
+

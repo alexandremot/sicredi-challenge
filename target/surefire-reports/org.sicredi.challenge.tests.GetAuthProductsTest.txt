@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sicredi.challenge.tests.GetAuthProductsTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.702 s -- in org.sicredi.challenge.tests.GetAuthProductsTest
